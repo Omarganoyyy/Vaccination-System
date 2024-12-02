@@ -10,7 +10,7 @@ int main()
 	cout << "osama";
 	if (1==0)
 	{
-		cout << "zobry";
+		cout << "omar";
 	}
 
 	return 0;
